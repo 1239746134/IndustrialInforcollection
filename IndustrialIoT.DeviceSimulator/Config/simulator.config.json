@@ -1,0 +1,16 @@
+﻿{
+  "SlaveConfig": {
+    "SlaveId": 1,
+    "PortName": "COM4",
+    "BaudRate": 9600,
+    "DataBits": 8,
+    "StopBits": "One",
+    "Parity": "None"
+  },
+  "DataStoreConfig": {
+    "CoilsCount": 32,
+    "DiscreteInputsCount": 32,
+    "HoldingRegistersCount": 32,
+    "InputRegistersCount": 32
+  }
+}
